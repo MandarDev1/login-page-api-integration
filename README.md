@@ -24,3 +24,47 @@ The aim of this project is to demonstrate front-end development skills using bot
 - A visually appealing spinner to indicate an ongoing API call.
 - Error message display for invalid inputs or API errors.
 
+## How to Run Project
+
+### HTML/CSS/JavaScript Version
+
+1. **Clone the Repository**:
+   ```bash
+   git clone [repository-url]
+
+2  **Navigate to the Project Directory**:
+    cd [project-directory]
+
+3   **Open the Login Page**:
+
+    Locate the index.html file in the project directory.
+    Open index.html in your preferred web browser.
+    No server setup is needed for this version; simply open the HTML file directly in a browser.
+
+**React.js Version**
+1    Clone the Repository:
+    git clone [repository-url]
+    
+2   Navigate to the React Project Directory:
+    cd [react-project-directory]
+3   Install Dependencies:
+    Make sure you have Node.js installed.
+    Run the following command to install project dependencies:
+    npm install
+4   Start the Development Server:
+    Use the following command to start the development server:
+    npm start
+    This will start a local development server and open the login page in your default web browser.
+5   Access the Application:
+    The application will be available at http://localhost:3000 by default.
+
+
+ 
+
+
+
+
+
+
+
+
